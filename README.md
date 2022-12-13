@@ -1,2 +1,2 @@
-# Student-Result-Management-System-Java-
+# Student-Result-Management-System-Java
 Student Result Management System, a desktop application, is developed using JAVA SWING and MySQL server. This Project stores student details and their results. Here I used Java Swing to make the front end for the project, and in the backend, a database called MySQL is used. It is composed of two sections: administration and students. Admins can add students, insert results, update results, and delete results in the admin section. In the student section, students can search their results using a valid roll number.
